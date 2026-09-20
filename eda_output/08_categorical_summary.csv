@@ -1,0 +1,11 @@
+Column,Unique_Values
+Company,5
+Campaign_Type,5
+Target_Audience,5
+Duration,4
+Channel_Used,6
+Acquisition_Cost,15001
+Location,5
+Language,5
+Customer_Segment,5
+Date,365

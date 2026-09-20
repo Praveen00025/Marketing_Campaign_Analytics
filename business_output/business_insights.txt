@@ -1,0 +1,14 @@
+MARKETING CAMPAIGN ANALYTICS - BUSINESS INSIGHTS
+================================================================================
+
+1. Campaign type with highest average ROI: Influencer (5.01)
+2. Campaign type with highest average conversion rate: Influencer (8.03%)
+3. Channel with highest average ROI: Facebook (5.02)
+4. Channel with highest average conversion rate: Email (8.03%)
+5. Company with highest average ROI in the dataset: TechCorp (5.01)
+6. Customer segment with highest average ROI: Foodies (5.00)
+7. Location with highest average ROI: Miami (5.01)
+8. Language category with highest average ROI: French (5.01)
+9. Campaign duration with highest average ROI: 30 days (5.01)
+10. Overall click-through rate (CTR): 9.98%
+11. Overall average ROI across campaigns: 5.00

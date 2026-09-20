@@ -1,0 +1,23 @@
+Column,Unique_Values
+Campaign_ID,200000
+Company,5
+Campaign_Type,5
+Target_Audience,5
+Duration,4
+Channel_Used,6
+Conversion_Rate,15
+Acquisition_Cost,15001
+ROI,601
+Location,5
+Language,5
+Clicks,901
+Impressions,9001
+Engagement_Score,10
+Customer_Segment,5
+Date,365
+Average Conversion Rate,0
+Engagement Rate,0
+Total Acquisition Cost,0
+Cost Per Click (CPC),0
+Cost Per Acquisition,0
+Total Conversions,0

@@ -1,0 +1,23 @@
+Column,Data_Type
+Campaign_ID,int64
+Company,object
+Campaign_Type,object
+Target_Audience,object
+Duration,object
+Channel_Used,object
+Conversion_Rate,float64
+Acquisition_Cost,object
+ROI,float64
+Location,object
+Language,object
+Clicks,int64
+Impressions,int64
+Engagement_Score,int64
+Customer_Segment,object
+Date,object
+Average Conversion Rate,float64
+Engagement Rate,float64
+Total Acquisition Cost,float64
+Cost Per Click (CPC),float64
+Cost Per Acquisition,float64
+Total Conversions,float64
